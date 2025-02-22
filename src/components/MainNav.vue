@@ -33,7 +33,7 @@ export default {
     return {
       company: 'Reinvent Careers',
       url: 'https://careers.google.com',
-      menuItems: ['Teams', 'Locations', 'Life at Reinvent', 'How we hire', 'Students', 'Jobs'],
+      menuItems: ['Teams', 'Locations', 'Life at Reinvent RH', 'How we hire', 'Students', 'Jobs'],
       isLoggedIn: false
     }
   },
